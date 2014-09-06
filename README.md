@@ -1,4 +1,4 @@
 kirikiri-KAG
 ============
 
-English-translated documentaion of KAG3
+English-translated documentation of KAG3
